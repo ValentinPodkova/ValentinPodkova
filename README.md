@@ -5,7 +5,7 @@ Always ready to move forward to new knowledge.
 
 - 🌱 I am actively studying QA-Manual and Automation, focusing on Java, Selenium, TestNg.  
 - 👯 Looking for opportunities to collaborate in QA. 
-- ⚡ Fun fact: My principle is: quality testing - quality product. 
+- ⚡ My principle is: quality testing - quality product. 
 
 
 
