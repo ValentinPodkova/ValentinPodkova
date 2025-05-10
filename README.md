@@ -1,11 +1,11 @@
-## Hi there 👋, my name is Valentin 
+# Привет! 👋, меня зовут Валентин 
 #### Welcome to my GitHub profile!
-I am a passionate and motivated person in software testing.
-Always ready to move forward to new knowledge.
+Я увлечённый и мотивированный человек в тестировании програмного обеспечения.
+Всегда готов двигаться вперед к новым знаниям.
 
-- 🌱 I am actively studying QA-Manual and Automation, focusing on Java, Selenium, TestNg.  
-- 👯 Looking for opportunities to collaborate in QA. 
-- ⚡ My principle is: quality testing - quality product. 
+🌱 Активно изучаю QA-Manual и Automation, уделяя особое внимание Java, Selenium, TestNg.
+👯 Ищу возможности для сотрудничества в области QA.
+⚡ Мой принцип: качественное тестирование — качественный продукт.
 
 
 
