@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Valentin 
+## Hi there 👋, my name is Valentin 
 #### Welcome to my GitHub profile!
 I am a passionate and motivated person in software testing.
 Always ready to move forward to new knowledge.
