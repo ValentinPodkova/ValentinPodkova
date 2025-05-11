@@ -9,7 +9,7 @@
 - 👯  Ищу возможности для сотрудничества в области QA 
 - ⚡ Мой принцип: качественное тестирование — качественный продукт
 
-# Мой инструменты
+# Мои инструменты
 ## Автоматизация и тестирование
   
  ![image](https://github.com/user-attachments/assets/7b26bb93-d854-4267-bd58-8a1fb260958a) ![image](https://github.com/user-attachments/assets/d7babe1b-696e-47a1-a962-c5863edfae7d) ![image](https://github.com/user-attachments/assets/48b7a6dc-da94-4594-bb1e-f50719a0e2f6)
