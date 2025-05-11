@@ -8,9 +8,10 @@
 - 👯  Ищу возможности для сотрудничества в области QA 
 - ⚡ Мой принцип: качественное тестирование — качественный продукт
 
-# Мой стек и инструменты
+# Мой инструменты
 - Автоматизация и тестирование
-  Selenium
+  https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
+
 
 
 
