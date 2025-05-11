@@ -12,11 +12,12 @@
 # Мой инструменты
 ## Автоматизация и тестирование
   
-  ![image](https://github.com/user-attachments/assets/3112dd1c-cbbe-4980-838d-d31e472c855e) ![image](https://github.com/user-attachments/assets/48b7a6dc-da94-4594-bb1e-f50719a0e2f6)
+ ![image](https://github.com/user-attachments/assets/7b26bb93-d854-4267-bd58-8a1fb260958a) ![image](https://github.com/user-attachments/assets/d7babe1b-696e-47a1-a962-c5863edfae7d) ![image](https://github.com/user-attachments/assets/48b7a6dc-da94-4594-bb1e-f50719a0e2f6)
 
 ## CI/CD и контроль версий
 
- ![image](https://github.com/user-attachments/assets/8e5776cd-83ba-4493-ae27-219839e9b03d) ![image](https://github.com/user-attachments/assets/1787aa77-3e7d-4de7-bdee-0ca63dbd3b1b) ![image](https://github.com/user-attachments/assets/58d763b4-bc8f-4f69-b88f-534a139f114e)
+ ![image](https://github.com/user-attachments/assets/8e5776cd-83ba-4493-ae27-219839e9b03d) ![image](https://github.com/user-attachments/assets/1787aa77-3e7d-4de7-bdee-0ca63dbd3b1b) ![image](https://github.com/user-attachments/assets/0613ae50-8522-4da4-8dcb-3cd129505707)
+
 
 
  
