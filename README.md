@@ -16,16 +16,33 @@
 
 ## CI/CD и контроль версий
 
-  ![image](https://github.com/user-attachments/assets/585725b8-c619-4490-8219-37f5d0810509) ![image](https://github.com/user-attachments/assets/86edc730-45c1-4673-b8d1-599c6b956af9) ![image](https://github.com/user-attachments/assets/9fcaca7f-ad15-42ac-8ffc-c93969defee5)
+ ![image](https://github.com/user-attachments/assets/8e5776cd-83ba-4493-ae27-219839e9b03d) ![image](https://github.com/user-attachments/assets/1787aa77-3e7d-4de7-bdee-0ca63dbd3b1b) ![image](https://github.com/user-attachments/assets/58d763b4-bc8f-4f69-b88f-534a139f114e)
+
+
+ 
 
 
 ## Языки
 
-  ![image](https://github.com/user-attachments/assets/ab307a33-222a-4c13-af7c-c035136695e8)
+  ![image](https://github.com/user-attachments/assets/40c98128-ee32-4df5-bdef-5a93d262b296)
+
 
 ## Среда разработки
 
-  ![image](https://github.com/user-attachments/assets/f124d05d-beb0-4f86-a2d1-ec378ca56799)
+![image](https://github.com/user-attachments/assets/e74fc831-ae47-4c02-a7e2-1742ec40ec62)
+
+
+
+## Базы данных и документация
+
+![image](https://github.com/user-attachments/assets/3adbedf7-0fc2-4b52-ba79-2bebe6e0a06d) ![image](https://github.com/user-attachments/assets/32a00f15-1f48-4619-a63c-bb98c7c6f765) ![image](https://github.com/user-attachments/assets/9ebb40bc-40a3-402a-b788-95404df4e1fc)
+
+
+
+
+
+
+
 
 
 
