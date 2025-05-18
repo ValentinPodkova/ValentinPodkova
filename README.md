@@ -38,7 +38,8 @@
 
 ## Базы данных и документация
 
-![image](https://github.com/user-attachments/assets/3adbedf7-0fc2-4b52-ba79-2bebe6e0a06d) ![image](https://github.com/user-attachments/assets/32a00f15-1f48-4619-a63c-bb98c7c6f765) ![image](https://github.com/user-attachments/assets/9ebb40bc-40a3-402a-b788-95404df4e1fc)
+![image](https://github.com/user-attachments/assets/3adbedf7-0fc2-4b52-ba79-2bebe6e0a06d) ![image](https://github.com/user-attachments/assets/32a00f15-1f48-4619-a63c-bb98c7c6f765) ![image](https://github.com/user-attachments/assets/9ebb40bc-40a3-402a-b788-95404df4e1fc) ![image](https://github.com/user-attachments/assets/4c1210f6-32bd-45fe-a243-1132e85552a5)
+
 
 
 
