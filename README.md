@@ -10,14 +10,27 @@
 - 👯 Ищу возможности для развития и сотрудничества в области QA
 - ⚡ Мой принцип: качественное тестирование — качественный продукт
 
-# Мои инструменты
-## Автоматизация и тестирование
+
+# Hi! 👋 My name is Valentin
+### Welcome to my GitHub profile!
+- I am a beginner QA Engineer, developing my skills in Manual QA and Automation Testing.
+- My goal is to grow in test automation, create reliable automated tests, improve my technical skills, and gradually deepen my knowledge of CI/CD.
+  
+# 🚀 About Me
+- 🌱 Learning Manual QA and QA Automation
+- 💻 Learning and practicing Python, Selenium, Pytest, Java, TestNG, Git, and Jenkins
+- 🔧 Gradually developing my skills in CI/CD
+- 👯 Looking for opportunities to grow and collaborate in the QA field
+- ⚡ My principle: Quality testing leads to a quality product
+  
+# 🛠️ Мои инструменты / My Tools
+## 🔹 Автоматизация и тестирование / Automation & Testing
   
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=for-the-badge) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 
 
-## CI/CD и контроль версий
+## 🔹 CI/CD и контроль версий / CI/CD & Version Control
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,18 +41,18 @@
  
 
 
-## Языки
+## 🔹 Языки / Languages
 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-## Среда разработки
+## 🔹 Среда разработки / Development Environment
 
 ![image](https://github.com/user-attachments/assets/e74fc831-ae47-4c02-a7e2-1742ec40ec62) ![PyCharm](https://img.shields.io/badge/PyCharm-6B57FF?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 
-## Базы данных и документация
+## 🔹 Базы данных и документация / Databases & Documentation
 
 ![image](https://github.com/user-attachments/assets/3adbedf7-0fc2-4b52-ba79-2bebe6e0a06d) ![image](https://github.com/user-attachments/assets/32a00f15-1f48-4619-a63c-bb98c7c6f765) ![image](https://github.com/user-attachments/assets/9ebb40bc-40a3-402a-b788-95404df4e1fc) ![image](https://github.com/user-attachments/assets/4c1210f6-32bd-45fe-a243-1132e85552a5)
 
