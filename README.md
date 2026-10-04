@@ -13,13 +13,15 @@
 # Мои инструменты
 ## Автоматизация и тестирование
   
- ![image](https://github.com/user-attachments/assets/7b26bb93-d854-4267-bd58-8a1fb260958a) ![image](https://github.com/user-attachments/assets/d7babe1b-696e-47a1-a962-c5863edfae7d) ![442497061-48b7a6dc-da94-4594-bb1e-f50719a0e2f6](https://github.com/user-attachments/assets/a20454ab-b3df-4d26-b27e-e8243af01a2e)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=for-the-badge) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 
 
 ## CI/CD и контроль версий
 
- ![image](https://github.com/user-attachments/assets/8e5776cd-83ba-4493-ae27-219839e9b03d) ![image](https://github.com/user-attachments/assets/1787aa77-3e7d-4de7-bdee-0ca63dbd3b1b) ![image](https://github.com/user-attachments/assets/0613ae50-8522-4da4-8dcb-3cd129505707)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-4A90E2?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 
@@ -28,12 +30,12 @@
 
 ## Языки
 
-  ![image](https://github.com/user-attachments/assets/40c98128-ee32-4df5-bdef-5a93d262b296)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Среда разработки
 
-![image](https://github.com/user-attachments/assets/e74fc831-ae47-4c02-a7e2-1742ec40ec62)
+![image](https://github.com/user-attachments/assets/e74fc831-ae47-4c02-a7e2-1742ec40ec62) ![PyCharm](https://img.shields.io/badge/PyCharm-6B57FF?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 
